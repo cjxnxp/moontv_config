@@ -381,10 +381,6 @@
       "is_adult": true
     },
     "79": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-      "name": "TV-魔都动漫"
-    },
-    "80": {
       "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
       "name": "优质资源库",
       "detail": "yzzy.tv"
