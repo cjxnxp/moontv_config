@@ -340,23 +340,17 @@
       "is_adult": true
     },
     "71": {
-      "api": "https://zy.hls.one/api.php/provide/vod",
-      "name": "🔞虾米资源",
-      "detail": "",
-      "is_adult": true
-    },
-    "72": {
       "name": "🎬优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://1080zyk4.com"
     },
-    "73": {
+    "72": {
       "api": "http://cj.xinlangzy.com/api.php/provide/vod",
       "name": "🔞新浪资源",
       "detail": "",
       "is_adult": true
     },
-    "74": {
+    "73": {
       "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
       "name": "优质资源库",
       "detail": "yzzy.tv"
