@@ -5487,3 +5487,5 @@
 [2025-11-05 01:25:49] https://jyzyapi.com/provide/vod/from/jinyingyun/at/json - Filtered by content: sm
 [2025-11-05 01:25:49] https://xingba222.com/api.php/provide - Status 520
 [2025-11-05 01:25:49] https://subocaiji.com/api.php/provide/vod - Filtered by content: sm
+[2025-11-07 01:25:06] http://www.piaohuazy.com/api.php/provide/vod - Cannot connect to host www.piaohuazy.com:80 ssl:default [Connect call failed ('208.98.40.209', 80)]
+[2025-11-07 01:25:07] http://xingyun.com/api.php/provide/vod - Cannot connect to host xingyun.com:80 ssl:default [Connect call failed ('208.98.40.213', 80)]
