@@ -5490,3 +5490,4 @@
 [2025-11-07 01:25:06] http://www.piaohuazy.com/api.php/provide/vod - Cannot connect to host www.piaohuazy.com:80 ssl:default [Connect call failed ('208.98.40.209', 80)]
 [2025-11-07 01:25:07] http://xingyun.com/api.php/provide/vod - Cannot connect to host xingyun.com:80 ssl:default [Connect call failed ('208.98.40.213', 80)]
 [2025-11-10 01:28:37] https://360zy.com/api.php/provide/vod/ - 
+[2025-11-12 01:25:28] https://api.maoyanapi.top/api.php/provide - 
