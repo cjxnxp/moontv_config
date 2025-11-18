@@ -5491,3 +5491,4 @@
 [2025-11-07 01:25:07] http://xingyun.com/api.php/provide/vod - Cannot connect to host xingyun.com:80 ssl:default [Connect call failed ('208.98.40.213', 80)]
 [2025-11-10 01:28:37] https://360zy.com/api.php/provide/vod/ - 
 [2025-11-12 01:25:28] https://api.maoyanapi.top/api.php/provide - 
+[2025-11-18 01:25:20] http://154.219.117.232:9981/jacloudapi.php/provide/vod/ - Cannot connect to host 154.219.117.232:9981 ssl:default [Connect call failed ('154.219.117.232', 9981)]
