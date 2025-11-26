@@ -5499,3 +5499,8 @@
 [2025-11-24 01:40:10] https://cj.yayazy.net/api.php/provide/vod - Filtered by content: sm
 [2025-11-25 01:25:41] https://api.okzyw.net/api.php/provide/vod - Filtered by content: sm
 [2025-11-25 01:25:47] https://xsd.sdzyapi.com/api.php/provide/vod - 
+[2025-11-26 01:26:03] https://api.yzzy-api.com/inc/apijson.php/provide/vod - Status 403
+[2025-11-26 01:26:03] https://api.yzzy-api.com/inc/api_mac10.php - Status 403
+[2025-11-26 01:26:03] https://api.yzzy-api.com/inc/api_mac10_all.php - Status 403
+[2025-11-26 01:26:03] https://api.yzzy-api.com/inc/apijson.php - Status 403
+[2025-11-26 01:26:03] https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod - Status 403
