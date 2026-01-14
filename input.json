@@ -79,38 +79,26 @@
       "detail": "https://api.1080zyku.com"
     },
     "17": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
-    },
-    "18": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "19": {
+    "18": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": "https://www.ryzyw.com",
       "is_adult": false
     },
-    "20": {
-      "api": "https://tyyszyapi.com/api.php/provide/vod/",
-      "name": "天涯影视"
-    },
-    "21": {
-      "name": "天涯影视资源网采集接口",
-      "api": "https://tyyszyapi.com/api.php/provide/vod"
-    },
-    "22": {
+    "19": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "23": {
+    "20": {
       "api": "http://wmcj8.com/inc/sapi.php",
       "name": "🔞成人07",
       "detail": "",
       "is_adult": true
     },
-    "24": {
+    "21": {
       "api": "http://cj.xinlangzy.com/api.php/provide/vod",
       "name": "🔞新浪资源",
       "detail": "",
