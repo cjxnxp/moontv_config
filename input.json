@@ -93,12 +93,6 @@
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
     "20": {
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "name": "🔞成人07",
-      "detail": "",
-      "is_adult": true
-    },
-    "21": {
       "api": "http://cj.xinlangzy.com/api.php/provide/vod",
       "name": "🔞新浪资源",
       "detail": "",
