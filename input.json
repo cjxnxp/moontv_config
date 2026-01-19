@@ -91,12 +91,6 @@
     "19": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
-    },
-    "20": {
-      "api": "http://cj.xinlangzy.com/api.php/provide/vod",
-      "name": "🔞新浪资源",
-      "detail": "",
-      "is_adult": true
     }
   },
   "custom_category": [
